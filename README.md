@@ -1,7 +1,8 @@
 # spring-tutorial-microservice
 ![architecture](architecture.png)
 
-Spring boot tutorial microservice with MongoDB compass
+## Project Overview :globe_with_meridians:	
+In this project we will create 2 microservices with a aggregator service which combines data from the two microservice and displays it in a meaningful manner. We will be using `spring boot` as our backend and `reactJS` as our frontend.
 
 ## Getting Started - Installation :computer:
 
