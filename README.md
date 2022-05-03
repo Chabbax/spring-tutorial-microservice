@@ -4,6 +4,8 @@
 ## Project Overview :globe_with_meridians:	
 In this project we will create 2 microservices with a aggregator service which combines data from the two microservice and displays it in a meaningful manner. We will be using `spring boot` as our backend and `reactJS` as our frontend. Note: Both microservices would havee 2 different types of databases, MongoDb and MySQL.
 
+**About**
+
 ## Getting Started - Installation :computer:
 
 ```
