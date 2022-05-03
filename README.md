@@ -7,7 +7,7 @@ In this project we will create 2 microservices with a aggregator service which c
 ## Getting Started - Installation :computer:
 
 ```
-1.  git clone https://github.com/Chabbax/without-create-react-app.git
+1.  git clone https://github.com/Chabbax/spring-tutorial-microservice.git
 2.  mvn spring-boot:run
 ```
 
