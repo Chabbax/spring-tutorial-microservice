@@ -1,4 +1,6 @@
 # spring-tutorial-microservice
+![architecture](architecture.png)
+
 Spring boot tutorial microservice with MongoDB compass
 
 ## Getting Started - Installation :computer:
