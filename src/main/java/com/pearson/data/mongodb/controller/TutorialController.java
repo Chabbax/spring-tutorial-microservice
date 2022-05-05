@@ -1,4 +1,4 @@
-package com.bezkoder.spring.data.mongodb.controller;
+package com.pearson.data.mongodb.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,8 +18,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bezkoder.spring.data.mongodb.model.Tutorial;
-import com.bezkoder.spring.data.mongodb.repository.TutorialRepository;
+import com.pearson.data.mongodb.model.Tutorial;
+import com.pearson.data.mongodb.repository.TutorialRepository;
 
 @CrossOrigin(origins = "http://localhost:8081")
 @RestController
