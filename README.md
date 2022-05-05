@@ -13,7 +13,7 @@ In this project we will create 2 microservices with a aggregator service which c
 2.  mvn spring-boot:run
 ```
 
-## Backend Repository :house_with_garden:
+## Frontend Repository :house_with_garden:
 - Frontend Repository: https://github.com/Chabbax/react-tutorial-microservice.git
 
 ## Prerequisites :white_check_mark:
